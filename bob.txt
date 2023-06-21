@@ -1,4 +1,4 @@
-adicionando conteudo ao arquivo bob.txt
+Oiii eu sou bob e estou aqui a muito tempo
 mais uma linha de conteudo sendo adicionada no arquivo bob.txt
 Oi, eu sou o bob. Eu sou novo aqui.
 Gostaria de fazer amigos
