@@ -2,3 +2,4 @@ adicionando conteudo ao arquivo bob.txt
 mais uma linha de conteudo sendo adicionada no arquivo bob.txt
 Oi, eu sou o bob. Eu sou novo aqui.
 Gostaria de fazer amigos
+testando mergee
